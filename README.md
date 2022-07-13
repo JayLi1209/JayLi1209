@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Jay Li. 👋
 
 I am a rising sophomore at Vanderbilt University.
 
@@ -10,6 +10,10 @@ I am a rising sophomore at Vanderbilt University.
 
 ### Follow me on:
 
+[Instagram](https://www.instagram.com/jayyyli1209/)
+[LinkedIn](https://www.linkedin.com/in/yuanhe-jay-li-038a8b20a/)
+
+### About me:
 - Field of Studies: Computer Science, Mathematics, Clarinet Performance (yes!)
 - I take a lot of photos, like these: [My Unsplash Account](https://unsplash.com/@jaylithephotographer)
 - I do a lot of fun recordings as well! [My Instagram](https://www.instagram.com/jayyyli_music/)
