@@ -1,4 +1,4 @@
-## Hi there, I'm Jay Li. 👋
+# Hi there, I'm Jay Li. 👋
 
 I am a rising sophomore at Vanderbilt University.
 
