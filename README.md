@@ -1,6 +1,6 @@
 # Hi there, I'm Jay Li. 👋
 
-I am a rising sophomore at Vanderbilt University.
+I am a sophomore at Vanderbilt University.
 
 ### Languages I used:
 
