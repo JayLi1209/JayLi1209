@@ -1,4 +1,4 @@
-# Hi there, I'm Jay Li. 👋
+# Hi there, I'm Yuanhe Li. 👋
 
 I am a sophomore at Vanderbilt University.
 
