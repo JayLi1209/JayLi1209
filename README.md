@@ -17,5 +17,5 @@ I am a sophomore at Vanderbilt University.
 - Field of Studies: Computer Science, Mathematics, Clarinet Performance (yes!)
 - I take a lot of photos, like these: [My Unsplash Account](https://unsplash.com/@jaylithephotographer)
 - I do a lot of fun recordings as well! [My Music Account](https://www.instagram.com/jayyyli_music/)
-- I don't eat 🍎 and 🍑.
+- I don't eat 🍎 or 🍑.
 - I play badminton!
