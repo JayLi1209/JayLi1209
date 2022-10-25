@@ -1,6 +1,6 @@
 # Hi there, I'm Yuanhe Li. 👋
 
-I am a sophomore at Vanderbilt University.
+I am a sophomore at Vanderbilt University. Call me Jay if it's easier.
 
 ### Languages I used:
 
