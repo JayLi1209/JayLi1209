@@ -1,6 +1,6 @@
 # Hi there, I'm Yuanhe Li. 👋
 
-I am a sophomore at Vanderbilt University. Call me Jay if it's easier.
+I am a rising Junior at Vanderbilt University. Call me Jay if it's easier.
 
 ### Languages I used:
 
@@ -14,7 +14,7 @@ I am a sophomore at Vanderbilt University. Call me Jay if it's easier.
 [LinkedIn](https://www.linkedin.com/in/yuanhe-jay-li-038a8b20a/)
 
 ### About me:
-- Field of Studies: Computer Science, Mathematics, Clarinet Performance (yes!)
+- Field of Studies: Computer Science, pure Mathematics, Clarinet Performance (yes!)
 - I take a lot of photos, like these: [My Unsplash Account](https://unsplash.com/@jaylithephotographer)
 - I do a lot of fun recordings as well! [My Music Account](https://www.instagram.com/jayyyli_music/)
 - I don't eat 🍎 or 🍑.
