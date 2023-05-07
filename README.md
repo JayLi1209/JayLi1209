@@ -32,7 +32,7 @@ I have experiences with [Prolog](https://www.swi-prolog.org/) and [Racket](https
 
 [Instagram](https://www.instagram.com/jayyyli1209/)
 
-[LinkedIn](https://www.linkedin.com/in/yuanhe-jay-li-038a8b20a/)
+[LinkedIn](https://www.linkedin.com/in/yuanhe-li/)
 
 [Email](mailto:yuanhe.li@vanderbilt.edu) me if you want to chat!
 
