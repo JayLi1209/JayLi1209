@@ -31,7 +31,10 @@ I have experiences with [Prolog](https://www.swi-prolog.org/) and [Racket](https
 ## Follow me on:
 
 [Instagram](https://www.instagram.com/jayyyli1209/)
+
 [LinkedIn](https://www.linkedin.com/in/yuanhe-jay-li-038a8b20a/)
+
+[Email](mailto:yuanhe.li@vanderbilt.edu) me if you want to chat!
 
 ## About me:
 - Field of Studies: Computer Science, Pure Mathematics, Clarinet Performance (yes!)
