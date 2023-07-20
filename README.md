@@ -2,7 +2,7 @@
 
 I am a rising Junior at Vanderbilt University. Call me Jay if it's easier.
 
-Frontend developer, soon to be fullstack. 
+Fullstack Developer. Software Engineer.
 
 ## Languages I used:
 
