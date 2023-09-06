@@ -1,6 +1,6 @@
 # Hi there, I'm Yuanhe Li. 👋
 
-I am a rising Junior at Vanderbilt University. Call me Jay if it's easier.
+I am a Junior at Vanderbilt University. Call me Jay if it's easier.
 
 Fullstack Developer. Software Engineer.
 
