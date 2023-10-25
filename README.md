@@ -1,10 +1,10 @@
-# Hi there, I'm Yuanhe Li. 👋
+#  Hi there, I'm Yuanhe Li. 👋
 
 I am a Junior at Vanderbilt University. Call me Jay if it's easier.
 
 Fullstack Developer. Software Engineer.
 
-## Languages I used:
+##  Languages I'm familiar with:
 
 <p align="left"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" alt="java" width="40" height="35"/> 
   <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.svg" alt="java" width="40" height="40"/> 
@@ -14,15 +14,11 @@ Fullstack Developer. Software Engineer.
   <img alt="Vue.js" src="https://user-images.githubusercontent.com/100735820/178592783-a0114c99-cc81-407c-9bce-accdd4f76523.svg" width="40" height="40" > 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" alt="Spring" width="40" height="40"/>
 </p>
 
-Currently learning:
-<p align="left">
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" alt="Spring" width="40" height="40"/>
- </p>
  
- 
-## Follow me on:
+##  Follow me on:
 
 [Instagram](https://www.instagram.com/jayyyli1209/)
 
@@ -30,7 +26,7 @@ Currently learning:
 
 [Email](mailto:yuanhe.li@vanderbilt.edu) me if you want to chat!
 
-## About me:
+##  About me:
 - Field of Studies: Computer Science, Pure Mathematics, Clarinet Performance (yes!)
 - I take a lot of photos, like these: [My Unsplash Account](https://unsplash.com/@jaylithephotographer)
 - I do a lot of fun recordings as well! [My Music Account](https://www.instagram.com/jayyyli_music/)
