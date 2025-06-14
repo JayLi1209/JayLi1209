@@ -1,8 +1,6 @@
 #  Hi there, I'm Yuanhe Li. 👋
 
-I am a Senior at Vanderbilt University. Call me Jay if it's easier.
-
-Fullstack Developer. Software Engineer.
+I am an incoming PhD student at William & Mary. Call me Jay if it's easier.
 
 ##  Languages I'm familiar with:
 
