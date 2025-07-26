@@ -22,7 +22,7 @@ I am an incoming PhD student at William & Mary. Call me Jay if it's easier.
 
 [LinkedIn](https://www.linkedin.com/in/yuanhe-li/)
 
-[Email](mailto:yuanhe.li@vanderbilt.edu) me if you want to chat!
+[Email](mailto:yli113@wm.edu) me if you want to chat!
 
 ##  About me:
 - Field of Studies: Computer Science, Pure Mathematics, Clarinet Performance (yes!)
