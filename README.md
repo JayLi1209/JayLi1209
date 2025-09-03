@@ -1,6 +1,6 @@
 #  Hi there, I'm Yuanhe Li. 👋
 
-I am an incoming PhD student at William & Mary. Call me Jay if it's easier.
+I am a first year PhD student at William & Mary. Call me Jay if it's easier.
 
 ##  Languages I'm familiar with:
 
