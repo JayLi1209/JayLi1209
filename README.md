@@ -2,6 +2,8 @@
 
 I am a first year PhD student at William & Mary. Call me Jay if it's easier.
 
+I was previously a software developer.
+
 ##  Languages I'm familiar with:
 
 <p align="left"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" alt="java" width="40" height="35"/> 
