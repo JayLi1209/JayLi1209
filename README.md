@@ -1,8 +1,8 @@
 #  Hi there, I'm Yuanhe Li. 👋
 
-I am a first year PhD student at William & Mary. Call me Jay if it's easier.
+I am a second year PhD student at William & Mary. Call me Jay if it's easier.
 
-I was previously a software developer. Currently, I do sample effiency on tree search in non-stationary environments.
+I was previously a software developer. Currently, I design adaptive agents to non-stationary MDPs.
  
 ##  Follow me on:
 
